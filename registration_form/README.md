@@ -1,1 +1,2 @@
 ### To run this website simply clone or download zip and run the file named "form.html"
+To use the website open the form (form.html), fill in your data and click on the submit button to view the data entered.
