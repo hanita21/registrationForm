@@ -1,0 +1,22 @@
+html {
+    height: 100%;
+  }
+
+body{
+    background-image: linear-gradient(to right,#ffb6b9 , #eedad1);
+
+    height: 100%;
+  
+    background-position: center;
+    background-repeat: repeat;
+    background-size: cover;
+
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.btn{
+    background-color: #424874;
+    color: white;
+}
